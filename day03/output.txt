@@ -1,0 +1,2181 @@
+SchematicNumber { value: 854, row: 0, col: 1 }
+sum: 854
+SchematicNumber { value: 362, row: 0, col: 79 }
+sum: 1216
+SchematicNumber { value: 24, row: 0, col: 122 }
+sum: 1240
+SchematicNumber { value: 117, row: 1, col: 33 }
+sum: 1357
+SchematicNumber { value: 767, row: 1, col: 59 }
+sum: 2124
+SchematicNumber { value: 648, row: 1, col: 63 }
+sum: 2772
+SchematicNumber { value: 970, row: 2, col: 4 }
+sum: 3742
+SchematicNumber { value: 368, row: 2, col: 16 }
+sum: 4110
+SchematicNumber { value: 124, row: 2, col: 20 }
+sum: 4234
+SchematicNumber { value: 57, row: 2, col: 37 }
+sum: 4291
+SchematicNumber { value: 653, row: 2, col: 55 }
+sum: 4944
+SchematicNumber { value: 723, row: 2, col: 69 }
+sum: 5667
+SchematicNumber { value: 366, row: 2, col: 77 }
+sum: 6033
+SchematicNumber { value: 443, row: 2, col: 85 }
+sum: 6476
+SchematicNumber { value: 60, row: 2, col: 90 }
+sum: 6536
+SchematicNumber { value: 441, row: 2, col: 108 }
+sum: 6977
+SchematicNumber { value: 45, row: 2, col: 115 }
+sum: 7022
+SchematicNumber { value: 879, row: 2, col: 119 }
+sum: 7901
+SchematicNumber { value: 749, row: 3, col: 11 }
+sum: 8650
+SchematicNumber { value: 330, row: 3, col: 25 }
+sum: 8980
+SchematicNumber { value: 215, row: 3, col: 49 }
+sum: 9195
+SchematicNumber { value: 725, row: 3, col: 73 }
+sum: 9920
+SchematicNumber { value: 953, row: 3, col: 81 }
+sum: 10873
+SchematicNumber { value: 639, row: 3, col: 123 }
+sum: 11512
+SchematicNumber { value: 331, row: 3, col: 132 }
+sum: 11843
+SchematicNumber { value: 706, row: 4, col: 7 }
+sum: 12549
+SchematicNumber { value: 59, row: 4, col: 15 }
+sum: 12608
+SchematicNumber { value: 262, row: 4, col: 39 }
+sum: 12102
+SchematicNumber { value: 678, row: 4, col: 55 }
+sum: 13548
+SchematicNumber { value: 189, row: 4, col: 86 }
+sum: 13737
+SchematicNumber { value: 912, row: 4, col: 109 }
+sum: 14649
+SchematicNumber { value: 589, row: 4, col: 114 }
+sum: 15238
+SchematicNumber { value: 846, row: 4, col: 118 }
+sum: 16084
+SchematicNumber { value: 393, row: 5, col: 27 }
+sum: 16477
+SchematicNumber { value: 59, row: 5, col: 31 }
+sum: 16536
+SchematicNumber { value: 418, row: 5, col: 35 }
+sum: 16954
+SchematicNumber { value: 594, row: 5, col: 73 }
+sum: 17548
+SchematicNumber { value: 584, row: 5, col: 92 }
+sum: 18132
+SchematicNumber { value: 258, row: 5, col: 96 }
+sum: 18390
+SchematicNumber { value: 17, row: 5, col: 122 }
+sum: 18407
+SchematicNumber { value: 997, row: 5, col: 125 }
+sum: 19404
+SchematicNumber { value: 774, row: 6, col: 7 }
+sum: 20178
+SchematicNumber { value: 275, row: 6, col: 14 }
+sum: 20453
+SchematicNumber { value: 777, row: 6, col: 41 }
+sum: 21230
+SchematicNumber { value: 841, row: 6, col: 52 }
+sum: 22071
+SchematicNumber { value: 121, row: 6, col: 81 }
+sum: 22192
+SchematicNumber { value: 908, row: 6, col: 88 }
+sum: 23100
+SchematicNumber { value: 86, row: 6, col: 100 }
+sum: 23186
+SchematicNumber { value: 482, row: 6, col: 107 }
+sum: 23668
+SchematicNumber { value: 305, row: 7, col: 33 }
+sum: 23973
+SchematicNumber { value: 18, row: 7, col: 37 }
+sum: 23991
+SchematicNumber { value: 740, row: 7, col: 59 }
+sum: 24731
+SchematicNumber { value: 840, row: 7, col: 75 }
+sum: 25571
+SchematicNumber { value: 52, row: 7, col: 97 }
+sum: 25623
+SchematicNumber { value: 100, row: 7, col: 119 }
+sum: 25723
+SchematicNumber { value: 250, row: 7, col: 133 }
+sum: 25973
+SchematicNumber { value: 856, row: 8, col: 26 }
+sum: 26829
+SchematicNumber { value: 761, row: 8, col: 55 }
+sum: 27590
+SchematicNumber { value: 344, row: 8, col: 67 }
+sum: 27934
+SchematicNumber { value: 505, row: 8, col: 80 }
+sum: 28439
+SchematicNumber { value: 121, row: 8, col: 104 }
+sum: 28560
+SchematicNumber { value: 709, row: 8, col: 113 }
+sum: 29269
+SchematicNumber { value: 980, row: 9, col: 6 }
+sum: 30249
+SchematicNumber { value: 269, row: 9, col: 10 }
+sum: 30518
+SchematicNumber { value: 189, row: 9, col: 15 }
+sum: 30707
+SchematicNumber { value: 701, row: 9, col: 31 }
+sum: 31408
+SchematicNumber { value: 22, row: 9, col: 48 }
+sum: 31430
+SchematicNumber { value: 343, row: 9, col: 62 }
+sum: 31773
+SchematicNumber { value: 684, row: 9, col: 71 }
+sum: 32457
+SchematicNumber { value: 375, row: 9, col: 89 }
+sum: 32832
+SchematicNumber { value: 223, row: 9, col: 98 }
+sum: 33055
+SchematicNumber { value: 97, row: 9, col: 109 }
+sum: 33152
+SchematicNumber { value: 890, row: 9, col: 123 }
+sum: 34042
+SchematicNumber { value: 904, row: 10, col: 2 }
+sum: 34946
+SchematicNumber { value: 555, row: 10, col: 24 }
+sum: 35501
+SchematicNumber { value: 38, row: 10, col: 40 }
+sum: 35539
+SchematicNumber { value: 207, row: 10, col: 52 }
+sum: 35746
+SchematicNumber { value: 773, row: 10, col: 67 }
+sum: 36519
+SchematicNumber { value: 824, row: 10, col: 93 }
+sum: 37343
+SchematicNumber { value: 618, row: 10, col: 119 }
+sum: 37961
+SchematicNumber { value: 355, row: 11, col: 20 }
+sum: 38316
+SchematicNumber { value: 362, row: 11, col: 32 }
+sum: 38678
+SchematicNumber { value: 442, row: 11, col: 46 }
+sum: 39120
+SchematicNumber { value: 613, row: 11, col: 61 }
+sum: 39733
+SchematicNumber { value: 770, row: 11, col: 76 }
+sum: 40503
+SchematicNumber { value: 418, row: 11, col: 102 }
+sum: 40921
+SchematicNumber { value: 283, row: 11, col: 110 }
+sum: 41204
+SchematicNumber { value: 76, row: 11, col: 115 }
+sum: 41280
+SchematicNumber { value: 862, row: 11, col: 126 }
+sum: 42142
+SchematicNumber { value: 450, row: 12, col: 3 }
+sum: 42592
+SchematicNumber { value: 292, row: 12, col: 11 }
+sum: 42884
+SchematicNumber { value: 735, row: 12, col: 28 }
+sum: 43619
+SchematicNumber { value: 149, row: 12, col: 36 }
+sum: 43768
+SchematicNumber { value: 143, row: 12, col: 50 }
+sum: 43911
+SchematicNumber { value: 458, row: 12, col: 67 }
+sum: 44369
+SchematicNumber { value: 279, row: 12, col: 81 }
+sum: 44648
+SchematicNumber { value: 43, row: 12, col: 93 }
+sum: 44691
+SchematicNumber { value: 769, row: 12, col: 97 }
+sum: 45460
+SchematicNumber { value: 48, row: 12, col: 122 }
+sum: 45508
+SchematicNumber { value: 413, row: 13, col: 7 }
+sum: 45921
+SchematicNumber { value: 983, row: 13, col: 19 }
+sum: 46904
+SchematicNumber { value: 642, row: 13, col: 55 }
+sum: 47546
+SchematicNumber { value: 214, row: 13, col: 62 }
+sum: 47760
+SchematicNumber { value: 107, row: 13, col: 77 }
+sum: 47867
+SchematicNumber { value: 276, row: 13, col: 115 }
+sum: 48143
+SchematicNumber { value: 39, row: 13, col: 119 }
+sum: 48182
+SchematicNumber { value: 196, row: 13, col: 127 }
+sum: 48378
+SchematicNumber { value: 889, row: 13, col: 131 }
+sum: 49267
+SchematicNumber { value: 624, row: 13, col: 135 }
+sum: 49891
+SchematicNumber { value: 128, row: 14, col: 3 }
+sum: 50019
+SchematicNumber { value: 658, row: 14, col: 23 }
+sum: 50677
+SchematicNumber { value: 515, row: 14, col: 27 }
+sum: 51192
+SchematicNumber { value: 890, row: 14, col: 33 }
+sum: 52082
+SchematicNumber { value: 60, row: 14, col: 86 }
+sum: 52142
+SchematicNumber { value: 528, row: 14, col: 97 }
+sum: 52670
+SchematicNumber { value: 359, row: 14, col: 102 }
+sum: 53029
+SchematicNumber { value: 451, row: 14, col: 110 }
+sum: 53480
+SchematicNumber { value: 56, row: 14, col: 122 }
+sum: 53536
+SchematicNumber { value: 719, row: 15, col: 19 }
+sum: 54255
+SchematicNumber { value: 525, row: 15, col: 41 }
+sum: 54780
+SchematicNumber { value: 502, row: 15, col: 62 }
+sum: 55282
+SchematicNumber { value: 284, row: 15, col: 77 }
+sum: 55566
+SchematicNumber { value: 489, row: 15, col: 93 }
+sum: 56055
+SchematicNumber { value: 287, row: 15, col: 116 }
+sum: 56342
+SchematicNumber { value: 282, row: 16, col: 66 }
+sum: 56624
+SchematicNumber { value: 649, row: 16, col: 71 }
+sum: 57273
+SchematicNumber { value: 217, row: 16, col: 89 }
+sum: 57490
+SchematicNumber { value: 240, row: 16, col: 104 }
+sum: 57730
+SchematicNumber { value: 833, row: 16, col: 128 }
+sum: 58563
+SchematicNumber { value: 666, row: 17, col: 7 }
+sum: 59229
+SchematicNumber { value: 179, row: 17, col: 13 }
+sum: 59408
+SchematicNumber { value: 986, row: 17, col: 21 }
+sum: 60394
+SchematicNumber { value: 526, row: 17, col: 25 }
+sum: 60920
+SchematicNumber { value: 927, row: 17, col: 46 }
+sum: 61847
+SchematicNumber { value: 73, row: 17, col: 55 }
+sum: 61920
+SchematicNumber { value: 176, row: 17, col: 62 }
+sum: 62096
+SchematicNumber { value: 459, row: 17, col: 85 }
+sum: 62555
+SchematicNumber { value: 946, row: 17, col: 100 }
+sum: 63501
+SchematicNumber { value: 549, row: 18, col: 17 }
+sum: 64050
+SchematicNumber { value: 261, row: 18, col: 29 }
+sum: 64311
+SchematicNumber { value: 370, row: 18, col: 37 }
+sum: 64681
+SchematicNumber { value: 951, row: 18, col: 41 }
+sum: 65632
+SchematicNumber { value: 114, row: 18, col: 69 }
+sum: 65746
+SchematicNumber { value: 170, row: 18, col: 78 }
+sum: 65916
+SchematicNumber { value: 269, row: 18, col: 104 }
+sum: 66185
+SchematicNumber { value: 471, row: 18, col: 119 }
+sum: 66656
+SchematicNumber { value: 891, row: 18, col: 123 }
+sum: 67547
+SchematicNumber { value: 859, row: 18, col: 128 }
+sum: 68406
+SchematicNumber { value: 646, row: 19, col: 49 }
+sum: 69052
+SchematicNumber { value: 327, row: 19, col: 59 }
+sum: 69379
+SchematicNumber { value: 237, row: 19, col: 73 }
+sum: 69616
+SchematicNumber { value: 452, row: 19, col: 90 }
+sum: 70068
+SchematicNumber { value: 620, row: 19, col: 109 }
+sum: 70688
+SchematicNumber { value: 324, row: 19, col: 132 }
+sum: 71012
+SchematicNumber { value: 716, row: 20, col: 19 }
+sum: 71728
+SchematicNumber { value: 753, row: 20, col: 27 }
+sum: 72481
+SchematicNumber { value: 431, row: 20, col: 55 }
+sum: 72912
+SchematicNumber { value: 692, row: 20, col: 68 }
+sum: 73604
+SchematicNumber { value: 210, row: 20, col: 80 }
+sum: 73814
+SchematicNumber { value: 860, row: 20, col: 98 }
+sum: 74674
+SchematicNumber { value: 208, row: 20, col: 105 }
+sum: 74882
+SchematicNumber { value: 81, row: 20, col: 123 }
+sum: 74963
+SchematicNumber { value: 655, row: 20, col: 126 }
+sum: 75618
+SchematicNumber { value: 17, row: 21, col: 13 }
+sum: 75635
+SchematicNumber { value: 603, row: 21, col: 90 }
+sum: 76238
+SchematicNumber { value: 950, row: 21, col: 109 }
+sum: 77188
+SchematicNumber { value: 218, row: 21, col: 113 }
+sum: 77406
+SchematicNumber { value: 692, row: 22, col: 16 }
+sum: 78098
+SchematicNumber { value: 54, row: 22, col: 22 }
+sum: 78152
+SchematicNumber { value: 778, row: 22, col: 31 }
+sum: 78930
+SchematicNumber { value: 809, row: 22, col: 35 }
+sum: 79739
+SchematicNumber { value: 140, row: 22, col: 46 }
+sum: 79879
+SchematicNumber { value: 249, row: 22, col: 61 }
+sum: 80128
+SchematicNumber { value: 332, row: 22, col: 78 }
+sum: 80460
+SchematicNumber { value: 372, row: 22, col: 105 }
+sum: 80832
+SchematicNumber { value: 328, row: 22, col: 117 }
+sum: 81160
+SchematicNumber { value: 421, row: 23, col: 7 }
+sum: 81581
+SchematicNumber { value: 493, row: 23, col: 52 }
+sum: 82074
+SchematicNumber { value: 589, row: 23, col: 73 }
+sum: 82663
+SchematicNumber { value: 286, row: 23, col: 94 }
+sum: 82949
+SchematicNumber { value: 254, row: 23, col: 112 }
+sum: 83203
+SchematicNumber { value: 458, row: 23, col: 125 }
+sum: 83661
+SchematicNumber { value: 672, row: 23, col: 131 }
+sum: 84333
+SchematicNumber { value: 949, row: 24, col: 14 }
+sum: 85282
+SchematicNumber { value: 630, row: 24, col: 18 }
+sum: 85912
+SchematicNumber { value: 725, row: 24, col: 26 }
+sum: 86637
+SchematicNumber { value: 609, row: 24, col: 32 }
+sum: 87246
+SchematicNumber { value: 408, row: 24, col: 44 }
+sum: 87654
+SchematicNumber { value: 108, row: 24, col: 60 }
+sum: 87762
+SchematicNumber { value: 304, row: 24, col: 77 }
+sum: 88066
+SchematicNumber { value: 517, row: 24, col: 81 }
+sum: 88583
+SchematicNumber { value: 829, row: 24, col: 90 }
+sum: 89412
+SchematicNumber { value: 666, row: 24, col: 102 }
+sum: 90078
+SchematicNumber { value: 724, row: 24, col: 116 }
+sum: 90802
+SchematicNumber { value: 182, row: 24, col: 120 }
+sum: 90984
+SchematicNumber { value: 435, row: 25, col: 9 }
+sum: 91419
+SchematicNumber { value: 580, row: 25, col: 48 }
+sum: 91999
+SchematicNumber { value: 147, row: 25, col: 85 }
+sum: 92146
+SchematicNumber { value: 221, row: 25, col: 96 }
+sum: 92367
+SchematicNumber { value: 544, row: 25, col: 106 }
+sum: 92911
+SchematicNumber { value: 662, row: 25, col: 111 }
+sum: 93573
+SchematicNumber { value: 881, row: 25, col: 131 }
+sum: 94454
+SchematicNumber { value: 561, row: 26, col: 18 }
+sum: 95015
+SchematicNumber { value: 568, row: 26, col: 27 }
+sum: 95583
+SchematicNumber { value: 487, row: 26, col: 31 }
+sum: 96070
+SchematicNumber { value: 935, row: 26, col: 39 }
+sum: 97005
+SchematicNumber { value: 106, row: 26, col: 54 }
+sum: 97111
+SchematicNumber { value: 104, row: 26, col: 68 }
+sum: 97215
+SchematicNumber { value: 808, row: 26, col: 77 }
+sum: 98023
+SchematicNumber { value: 333, row: 26, col: 100 }
+sum: 98356
+SchematicNumber { value: 900, row: 26, col: 123 }
+sum: 99256
+SchematicNumber { value: 287, row: 27, col: 35 }
+sum: 99543
+SchematicNumber { value: 930, row: 27, col: 46 }
+sum: 100473
+SchematicNumber { value: 528, row: 27, col: 61 }
+sum: 101001
+SchematicNumber { value: 332, row: 27, col: 73 }
+sum: 101333
+SchematicNumber { value: 755, row: 27, col: 88 }
+sum: 102088
+SchematicNumber { value: 583, row: 27, col: 128 }
+sum: 102671
+SchematicNumber { value: 371, row: 28, col: 1 }
+sum: 103042
+SchematicNumber { value: 299, row: 28, col: 5 }
+sum: 103341
+SchematicNumber { value: 503, row: 28, col: 25 }
+sum: 103844
+SchematicNumber { value: 632, row: 28, col: 57 }
+sum: 104476
+SchematicNumber { value: 647, row: 28, col: 115 }
+sum: 105123
+SchematicNumber { value: 193, row: 28, col: 120 }
+sum: 105316
+SchematicNumber { value: 902, row: 29, col: 14 }
+sum: 106218
+SchematicNumber { value: 2, row: 29, col: 19 }
+sum: 106220
+SchematicNumber { value: 123, row: 29, col: 21 }
+sum: 106343
+SchematicNumber { value: 912, row: 29, col: 30 }
+sum: 107255
+SchematicNumber { value: 775, row: 29, col: 40 }
+sum: 108030
+SchematicNumber { value: 734, row: 29, col: 77 }
+sum: 108764
+SchematicNumber { value: 90, row: 29, col: 84 }
+sum: 108854
+SchematicNumber { value: 968, row: 29, col: 87 }
+sum: 109822
+SchematicNumber { value: 513, row: 29, col: 91 }
+sum: 110335
+SchematicNumber { value: 66, row: 29, col: 96 }
+sum: 110401
+SchematicNumber { value: 923, row: 30, col: 25 }
+sum: 111324
+SchematicNumber { value: 289, row: 30, col: 45 }
+sum: 111613
+SchematicNumber { value: 47, row: 30, col: 50 }
+sum: 111660
+SchematicNumber { value: 785, row: 30, col: 57 }
+sum: 112445
+SchematicNumber { value: 710, row: 30, col: 62 }
+sum: 113155
+SchematicNumber { value: 54, row: 30, col: 72 }
+sum: 113209
+SchematicNumber { value: 767, row: 30, col: 118 }
+sum: 113976
+SchematicNumber { value: 452, row: 30, col: 125 }
+sum: 114428
+SchematicNumber { value: 348, row: 31, col: 13 }
+sum: 114776
+SchematicNumber { value: 362, row: 31, col: 17 }
+sum: 115138
+SchematicNumber { value: 607, row: 31, col: 32 }
+sum: 115745
+SchematicNumber { value: 889, row: 31, col: 40 }
+sum: 116634
+SchematicNumber { value: 904, row: 31, col: 79 }
+sum: 117538
+SchematicNumber { value: 694, row: 31, col: 98 }
+sum: 118232
+SchematicNumber { value: 241, row: 31, col: 132 }
+sum: 118473
+SchematicNumber { value: 955, row: 32, col: 4 }
+sum: 119428
+SchematicNumber { value: 559, row: 32, col: 21 }
+sum: 119987
+SchematicNumber { value: 792, row: 32, col: 25 }
+sum: 120779
+SchematicNumber { value: 307, row: 32, col: 56 }
+sum: 121086
+SchematicNumber { value: 25, row: 32, col: 61 }
+sum: 121111
+SchematicNumber { value: 449, row: 32, col: 72 }
+sum: 121560
+SchematicNumber { value: 751, row: 32, col: 90 }
+sum: 122311
+SchematicNumber { value: 404, row: 32, col: 94 }
+sum: 122715
+SchematicNumber { value: 134, row: 32, col: 102 }
+sum: 122849
+SchematicNumber { value: 841, row: 32, col: 110 }
+sum: 123690
+SchematicNumber { value: 959, row: 33, col: 8 }
+sum: 124649
+SchematicNumber { value: 300, row: 33, col: 14 }
+sum: 124949
+SchematicNumber { value: 644, row: 33, col: 37 }
+sum: 125593
+SchematicNumber { value: 692, row: 33, col: 44 }
+sum: 126285
+SchematicNumber { value: 758, row: 33, col: 114 }
+sum: 127043
+SchematicNumber { value: 35, row: 33, col: 118 }
+sum: 127078
+SchematicNumber { value: 908, row: 34, col: 1 }
+sum: 127986
+SchematicNumber { value: 861, row: 34, col: 23 }
+sum: 128847
+SchematicNumber { value: 240, row: 34, col: 48 }
+sum: 129087
+SchematicNumber { value: 9, row: 34, col: 69 }
+sum: 129096
+SchematicNumber { value: 615, row: 34, col: 77 }
+sum: 129711
+SchematicNumber { value: 646, row: 34, col: 91 }
+sum: 130357
+SchematicNumber { value: 538, row: 34, col: 99 }
+sum: 130895
+SchematicNumber { value: 751, row: 34, col: 109 }
+sum: 131646
+SchematicNumber { value: 899, row: 34, col: 123 }
+sum: 132545
+SchematicNumber { value: 545, row: 34, col: 135 }
+sum: 133090
+SchematicNumber { value: 806, row: 35, col: 7 }
+sum: 133896
+SchematicNumber { value: 270, row: 35, col: 11 }
+sum: 134166
+SchematicNumber { value: 946, row: 35, col: 19 }
+sum: 135112
+SchematicNumber { value: 555, row: 35, col: 52 }
+sum: 135667
+SchematicNumber { value: 803, row: 35, col: 60 }
+sum: 136470
+SchematicNumber { value: 322, row: 35, col: 65 }
+sum: 136792
+SchematicNumber { value: 410, row: 35, col: 82 }
+sum: 137202
+SchematicNumber { value: 514, row: 35, col: 95 }
+sum: 137716
+SchematicNumber { value: 10, row: 35, col: 120 }
+sum: 137726
+SchematicNumber { value: 373, row: 36, col: 15 }
+sum: 138099
+SchematicNumber { value: 7, row: 36, col: 38 }
+sum: 138106
+SchematicNumber { value: 918, row: 36, col: 40 }
+sum: 139024
+SchematicNumber { value: 699, row: 36, col: 48 }
+sum: 139723
+SchematicNumber { value: 78, row: 36, col: 104 }
+sum: 139801
+SchematicNumber { value: 34, row: 36, col: 124 }
+sum: 139835
+SchematicNumber { value: 653, row: 37, col: 4 }
+sum: 140488
+SchematicNumber { value: 553, row: 37, col: 54 }
+sum: 141041
+SchematicNumber { value: 896, row: 37, col: 64 }
+sum: 141937
+SchematicNumber { value: 721, row: 37, col: 85 }
+sum: 142658
+SchematicNumber { value: 970, row: 37, col: 92 }
+sum: 143628
+SchematicNumber { value: 379, row: 38, col: 19 }
+sum: 144007
+SchematicNumber { value: 377, row: 38, col: 24 }
+sum: 144384
+SchematicNumber { value: 770, row: 38, col: 32 }
+sum: 145154
+SchematicNumber { value: 126, row: 38, col: 59 }
+sum: 145280
+SchematicNumber { value: 712, row: 38, col: 70 }
+sum: 145992
+SchematicNumber { value: 287, row: 38, col: 74 }
+sum: 146279
+SchematicNumber { value: 951, row: 38, col: 81 }
+sum: 147230
+SchematicNumber { value: 984, row: 38, col: 100 }
+sum: 148214
+SchematicNumber { value: 700, row: 38, col: 129 }
+sum: 148914
+SchematicNumber { value: 924, row: 39, col: 14 }
+sum: 149838
+SchematicNumber { value: 422, row: 39, col: 39 }
+sum: 150260
+SchematicNumber { value: 233, row: 39, col: 65 }
+sum: 150493
+SchematicNumber { value: 124, row: 39, col: 94 }
+sum: 150617
+SchematicNumber { value: 902, row: 39, col: 108 }
+sum: 151519
+SchematicNumber { value: 181, row: 39, col: 115 }
+sum: 151700
+SchematicNumber { value: 156, row: 40, col: 21 }
+sum: 151856
+SchematicNumber { value: 363, row: 40, col: 26 }
+sum: 152219
+SchematicNumber { value: 855, row: 40, col: 35 }
+sum: 153074
+SchematicNumber { value: 884, row: 40, col: 60 }
+sum: 153958
+SchematicNumber { value: 509, row: 40, col: 69 }
+sum: 154467
+SchematicNumber { value: 635, row: 40, col: 102 }
+sum: 155102
+SchematicNumber { value: 283, row: 40, col: 120 }
+sum: 155385
+SchematicNumber { value: 661, row: 40, col: 132 }
+sum: 156046
+SchematicNumber { value: 393, row: 41, col: 31 }
+sum: 156439
+SchematicNumber { value: 766, row: 41, col: 43 }
+sum: 157205
+SchematicNumber { value: 789, row: 41, col: 49 }
+sum: 157994
+SchematicNumber { value: 683, row: 41, col: 65 }
+sum: 158677
+SchematicNumber { value: 461, row: 41, col: 86 }
+sum: 159138
+SchematicNumber { value: 910, row: 41, col: 98 }
+sum: 160048
+SchematicNumber { value: 904, row: 41, col: 110 }
+sum: 160952
+SchematicNumber { value: 568, row: 42, col: 13 }
+sum: 161520
+SchematicNumber { value: 680, row: 42, col: 25 }
+sum: 162200
+SchematicNumber { value: 522, row: 42, col: 60 }
+sum: 162722
+SchematicNumber { value: 747, row: 42, col: 91 }
+sum: 163469
+SchematicNumber { value: 113, row: 42, col: 106 }
+sum: 163582
+SchematicNumber { value: 702, row: 42, col: 125 }
+sum: 164284
+SchematicNumber { value: 952, row: 42, col: 131 }
+sum: 165236
+SchematicNumber { value: 334, row: 43, col: 9 }
+sum: 165570
+SchematicNumber { value: 392, row: 43, col: 19 }
+sum: 165962
+SchematicNumber { value: 910, row: 43, col: 32 }
+sum: 166872
+SchematicNumber { value: 233, row: 43, col: 51 }
+sum: 167105
+SchematicNumber { value: 189, row: 43, col: 56 }
+sum: 167294
+SchematicNumber { value: 225, row: 43, col: 87 }
+sum: 167519
+SchematicNumber { value: 521, row: 43, col: 96 }
+sum: 168040
+SchematicNumber { value: 941, row: 43, col: 102 }
+sum: 168981
+SchematicNumber { value: 146, row: 44, col: 1 }
+sum: 169127
+SchematicNumber { value: 981, row: 44, col: 5 }
+sum: 170108
+SchematicNumber { value: 284, row: 44, col: 14 }
+sum: 170392
+SchematicNumber { value: 972, row: 44, col: 27 }
+sum: 171364
+SchematicNumber { value: 391, row: 44, col: 36 }
+sum: 171755
+SchematicNumber { value: 789, row: 44, col: 44 }
+sum: 172544
+SchematicNumber { value: 628, row: 44, col: 83 }
+sum: 173172
+SchematicNumber { value: 675, row: 44, col: 114 }
+sum: 173847
+SchematicNumber { value: 921, row: 45, col: 18 }
+sum: 174768
+SchematicNumber { value: 151, row: 45, col: 23 }
+sum: 174919
+SchematicNumber { value: 983, row: 45, col: 48 }
+sum: 175902
+SchematicNumber { value: 983, row: 45, col: 75 }
+sum: 176885
+SchematicNumber { value: 690, row: 45, col: 79 }
+sum: 177575
+SchematicNumber { value: 213, row: 45, col: 89 }
+sum: 177788
+SchematicNumber { value: 137, row: 45, col: 93 }
+sum: 177925
+SchematicNumber { value: 268, row: 45, col: 97 }
+sum: 178193
+SchematicNumber { value: 24, row: 45, col: 128 }
+sum: 178217
+SchematicNumber { value: 600, row: 46, col: 27 }
+sum: 178817
+SchematicNumber { value: 106, row: 46, col: 38 }
+sum: 178923
+SchematicNumber { value: 226, row: 46, col: 57 }
+sum: 179149
+SchematicNumber { value: 996, row: 46, col: 84 }
+sum: 180145
+SchematicNumber { value: 681, row: 46, col: 116 }
+sum: 180826
+SchematicNumber { value: 768, row: 46, col: 124 }
+sum: 181594
+SchematicNumber { value: 852, row: 46, col: 134 }
+sum: 182446
+SchematicNumber { value: 963, row: 47, col: 80 }
+sum: 183409
+SchematicNumber { value: 421, row: 47, col: 104 }
+sum: 183830
+SchematicNumber { value: 305, row: 47, col: 108 }
+sum: 184135
+SchematicNumber { value: 923, row: 48, col: 5 }
+sum: 185058
+SchematicNumber { value: 285, row: 48, col: 9 }
+sum: 185343
+SchematicNumber { value: 961, row: 48, col: 18 }
+sum: 186304
+SchematicNumber { value: 812, row: 48, col: 40 }
+sum: 187116
+SchematicNumber { value: 812, row: 48, col: 49 }
+sum: 187928
+SchematicNumber { value: 851, row: 48, col: 54 }
+sum: 188779
+SchematicNumber { value: 678, row: 48, col: 70 }
+sum: 189457
+SchematicNumber { value: 29, row: 48, col: 74 }
+sum: 189486
+SchematicNumber { value: 501, row: 48, col: 90 }
+sum: 189987
+SchematicNumber { value: 228, row: 48, col: 98 }
+sum: 190215
+SchematicNumber { value: 385, row: 48, col: 115 }
+sum: 190600
+SchematicNumber { value: 853, row: 48, col: 121 }
+sum: 191453
+SchematicNumber { value: 444, row: 49, col: 1 }
+sum: 191897
+SchematicNumber { value: 998, row: 49, col: 24 }
+sum: 192895
+SchematicNumber { value: 99, row: 49, col: 30 }
+sum: 192994
+SchematicNumber { value: 711, row: 49, col: 33 }
+sum: 193705
+SchematicNumber { value: 330, row: 49, col: 62 }
+sum: 194035
+SchematicNumber { value: 287, row: 49, col: 80 }
+sum: 194322
+SchematicNumber { value: 781, row: 49, col: 94 }
+sum: 195103
+SchematicNumber { value: 445, row: 49, col: 111 }
+sum: 195548
+SchematicNumber { value: 250, row: 50, col: 11 }
+sum: 195798
+SchematicNumber { value: 965, row: 50, col: 20 }
+sum: 196763
+SchematicNumber { value: 113, row: 50, col: 56 }
+sum: 196876
+SchematicNumber { value: 766, row: 50, col: 69 }
+sum: 197642
+SchematicNumber { value: 941, row: 50, col: 84 }
+sum: 198583
+SchematicNumber { value: 658, row: 50, col: 102 }
+sum: 199241
+SchematicNumber { value: 894, row: 50, col: 118 }
+sum: 200135
+SchematicNumber { value: 351, row: 50, col: 129 }
+sum: 200486
+SchematicNumber { value: 335, row: 51, col: 6 }
+sum: 200821
+SchematicNumber { value: 463, row: 51, col: 24 }
+sum: 201284
+SchematicNumber { value: 328, row: 51, col: 28 }
+sum: 201612
+SchematicNumber { value: 411, row: 51, col: 37 }
+sum: 202023
+SchematicNumber { value: 981, row: 51, col: 74 }
+sum: 203004
+SchematicNumber { value: 5, row: 51, col: 88 }
+sum: 203009
+SchematicNumber { value: 773, row: 51, col: 106 }
+sum: 203782
+SchematicNumber { value: 573, row: 51, col: 111 }
+sum: 204355
+SchematicNumber { value: 348, row: 52, col: 11 }
+sum: 204703
+SchematicNumber { value: 460, row: 52, col: 32 }
+sum: 205163
+SchematicNumber { value: 5, row: 52, col: 41 }
+sum: 205168
+SchematicNumber { value: 517, row: 52, col: 44 }
+sum: 205685
+SchematicNumber { value: 583, row: 52, col: 54 }
+sum: 206268
+SchematicNumber { value: 889, row: 52, col: 66 }
+sum: 207157
+SchematicNumber { value: 953, row: 52, col: 93 }
+sum: 208110
+SchematicNumber { value: 496, row: 52, col: 101 }
+sum: 208606
+SchematicNumber { value: 547, row: 52, col: 119 }
+sum: 209153
+SchematicNumber { value: 620, row: 52, col: 134 }
+sum: 209773
+SchematicNumber { value: 299, row: 53, col: 3 }
+sum: 210072
+SchematicNumber { value: 852, row: 53, col: 71 }
+sum: 210924
+SchematicNumber { value: 442, row: 53, col: 75 }
+sum: 211366
+SchematicNumber { value: 796, row: 53, col: 79 }
+sum: 212162
+SchematicNumber { value: 772, row: 54, col: 9 }
+sum: 212934
+SchematicNumber { value: 487, row: 54, col: 15 }
+sum: 213421
+SchematicNumber { value: 938, row: 54, col: 48 }
+sum: 214359
+SchematicNumber { value: 462, row: 54, col: 52 }
+sum: 214821
+SchematicNumber { value: 41, row: 54, col: 61 }
+sum: 214862
+SchematicNumber { value: 643, row: 54, col: 64 }
+sum: 215505
+SchematicNumber { value: 592, row: 54, col: 83 }
+sum: 216097
+SchematicNumber { value: 66, row: 54, col: 90 }
+sum: 216163
+SchematicNumber { value: 809, row: 54, col: 95 }
+sum: 216972
+SchematicNumber { value: 368, row: 54, col: 99 }
+sum: 217340
+SchematicNumber { value: 3, row: 54, col: 104 }
+sum: 217343
+SchematicNumber { value: 549, row: 54, col: 107 }
+sum: 217892
+SchematicNumber { value: 772, row: 54, col: 134 }
+sum: 218664
+SchematicNumber { value: 566, row: 55, col: 1 }
+sum: 219230
+SchematicNumber { value: 320, row: 55, col: 19 }
+sum: 219550
+SchematicNumber { value: 498, row: 55, col: 27 }
+sum: 220048
+SchematicNumber { value: 775, row: 55, col: 32 }
+sum: 220823
+SchematicNumber { value: 230, row: 55, col: 36 }
+sum: 221053
+SchematicNumber { value: 193, row: 55, col: 40 }
+sum: 221246
+SchematicNumber { value: 961, row: 55, col: 70 }
+sum: 222207
+SchematicNumber { value: 283, row: 55, col: 112 }
+sum: 222490
+SchematicNumber { value: 406, row: 55, col: 120 }
+sum: 222896
+SchematicNumber { value: 495, row: 55, col: 130 }
+sum: 223391
+SchematicNumber { value: 292, row: 56, col: 8 }
+sum: 223683
+SchematicNumber { value: 585, row: 56, col: 13 }
+sum: 224268
+SchematicNumber { value: 309, row: 56, col: 56 }
+sum: 224577
+SchematicNumber { value: 469, row: 56, col: 78 }
+sum: 225046
+SchematicNumber { value: 549, row: 56, col: 83 }
+sum: 225595
+SchematicNumber { value: 903, row: 56, col: 103 }
+sum: 226498
+SchematicNumber { value: 29, row: 56, col: 127 }
+sum: 226527
+SchematicNumber { value: 551, row: 57, col: 27 }
+sum: 227078
+SchematicNumber { value: 806, row: 57, col: 32 }
+sum: 227884
+SchematicNumber { value: 489, row: 57, col: 38 }
+sum: 228373
+SchematicNumber { value: 51, row: 57, col: 63 }
+sum: 228424
+SchematicNumber { value: 655, row: 57, col: 66 }
+sum: 229079
+SchematicNumber { value: 999, row: 57, col: 70 }
+sum: 230078
+SchematicNumber { value: 21, row: 57, col: 97 }
+sum: 230099
+SchematicNumber { value: 300, row: 57, col: 117 }
+sum: 230399
+SchematicNumber { value: 931, row: 57, col: 122 }
+sum: 231330
+SchematicNumber { value: 595, row: 57, col: 132 }
+sum: 231925
+SchematicNumber { value: 878, row: 58, col: 6 }
+sum: 232803
+SchematicNumber { value: 62, row: 58, col: 15 }
+sum: 232865
+SchematicNumber { value: 871, row: 58, col: 47 }
+sum: 233736
+SchematicNumber { value: 169, row: 58, col: 56 }
+sum: 233905
+SchematicNumber { value: 235, row: 58, col: 74 }
+sum: 234140
+SchematicNumber { value: 788, row: 58, col: 79 }
+sum: 234928
+SchematicNumber { value: 497, row: 58, col: 85 }
+sum: 235425
+SchematicNumber { value: 68, row: 58, col: 114 }
+sum: 235493
+SchematicNumber { value: 191, row: 58, col: 128 }
+sum: 235684
+SchematicNumber { value: 31, row: 59, col: 19 }
+sum: 235715
+SchematicNumber { value: 623, row: 59, col: 52 }
+sum: 236338
+SchematicNumber { value: 428, row: 59, col: 60 }
+sum: 236766
+SchematicNumber { value: 955, row: 59, col: 68 }
+sum: 237721
+SchematicNumber { value: 89, row: 59, col: 107 }
+sum: 237810
+SchematicNumber { value: 728, row: 59, col: 120 }
+sum: 238538
+SchematicNumber { value: 447, row: 60, col: 13 }
+sum: 238985
+SchematicNumber { value: 530, row: 60, col: 31 }
+sum: 239515
+SchematicNumber { value: 203, row: 60, col: 37 }
+sum: 239718
+SchematicNumber { value: 955, row: 60, col: 43 }
+sum: 240673
+SchematicNumber { value: 336, row: 60, col: 47 }
+sum: 241009
+SchematicNumber { value: 665, row: 60, col: 87 }
+sum: 241674
+SchematicNumber { value: 669, row: 60, col: 113 }
+sum: 242343
+SchematicNumber { value: 323, row: 61, col: 23 }
+sum: 242666
+SchematicNumber { value: 24, row: 61, col: 60 }
+sum: 242690
+SchematicNumber { value: 452, row: 61, col: 98 }
+sum: 243142
+SchematicNumber { value: 9, row: 61, col: 108 }
+sum: 243151
+SchematicNumber { value: 570, row: 61, col: 134 }
+sum: 243721
+SchematicNumber { value: 568, row: 62, col: 6 }
+sum: 244289
+SchematicNumber { value: 803, row: 62, col: 12 }
+sum: 245092
+SchematicNumber { value: 152, row: 62, col: 37 }
+sum: 245244
+SchematicNumber { value: 209, row: 62, col: 47 }
+sum: 245453
+SchematicNumber { value: 933, row: 62, col: 51 }
+sum: 246386
+SchematicNumber { value: 877, row: 62, col: 64 }
+sum: 247263
+SchematicNumber { value: 667, row: 62, col: 69 }
+sum: 247930
+SchematicNumber { value: 895, row: 62, col: 73 }
+sum: 248825
+SchematicNumber { value: 548, row: 62, col: 88 }
+sum: 249373
+SchematicNumber { value: 963, row: 62, col: 94 }
+sum: 250336
+SchematicNumber { value: 948, row: 63, col: 58 }
+sum: 251284
+SchematicNumber { value: 171, row: 63, col: 83 }
+sum: 251455
+SchematicNumber { value: 605, row: 63, col: 98 }
+sum: 252060
+SchematicNumber { value: 765, row: 63, col: 102 }
+sum: 252825
+SchematicNumber { value: 992, row: 63, col: 132 }
+sum: 253817
+SchematicNumber { value: 476, row: 64, col: 17 }
+sum: 254293
+SchematicNumber { value: 564, row: 64, col: 47 }
+sum: 254857
+SchematicNumber { value: 755, row: 64, col: 66 }
+sum: 255612
+SchematicNumber { value: 709, row: 64, col: 88 }
+sum: 256321
+SchematicNumber { value: 11, row: 64, col: 94 }
+sum: 256332
+SchematicNumber { value: 909, row: 64, col: 108 }
+sum: 257241
+SchematicNumber { value: 124, row: 64, col: 126 }
+sum: 257365
+SchematicNumber { value: 74, row: 65, col: 8 }
+sum: 257439
+SchematicNumber { value: 73, row: 65, col: 13 }
+sum: 257512
+SchematicNumber { value: 320, row: 65, col: 31 }
+sum: 257832
+SchematicNumber { value: 658, row: 65, col: 43 }
+sum: 258490
+SchematicNumber { value: 739, row: 65, col: 52 }
+sum: 259229
+SchematicNumber { value: 484, row: 65, col: 70 }
+sum: 259713
+SchematicNumber { value: 860, row: 65, col: 76 }
+sum: 260573
+SchematicNumber { value: 314, row: 65, col: 116 }
+sum: 260887
+SchematicNumber { value: 509, row: 66, col: 4 }
+sum: 261396
+SchematicNumber { value: 79, row: 66, col: 20 }
+sum: 261475
+SchematicNumber { value: 290, row: 66, col: 23 }
+sum: 261765
+SchematicNumber { value: 222, row: 66, col: 38 }
+sum: 261987
+SchematicNumber { value: 46, row: 66, col: 58 }
+sum: 262033
+SchematicNumber { value: 940, row: 66, col: 63 }
+sum: 262973
+SchematicNumber { value: 960, row: 66, col: 80 }
+sum: 263933
+SchematicNumber { value: 473, row: 66, col: 88 }
+sum: 264406
+SchematicNumber { value: 681, row: 66, col: 110 }
+sum: 265087
+SchematicNumber { value: 591, row: 66, col: 120 }
+sum: 265678
+SchematicNumber { value: 269, row: 66, col: 125 }
+sum: 265947
+SchematicNumber { value: 887, row: 67, col: 8 }
+sum: 266834
+SchematicNumber { value: 94, row: 67, col: 12 }
+sum: 266928
+SchematicNumber { value: 302, row: 67, col: 34 }
+sum: 267230
+SchematicNumber { value: 784, row: 67, col: 42 }
+sum: 268014
+SchematicNumber { value: 554, row: 67, col: 46 }
+sum: 268568
+SchematicNumber { value: 455, row: 67, col: 76 }
+sum: 269023
+SchematicNumber { value: 891, row: 67, col: 101 }
+sum: 269914
+SchematicNumber { value: 457, row: 67, col: 114 }
+sum: 270371
+SchematicNumber { value: 609, row: 67, col: 129 }
+sum: 270980
+SchematicNumber { value: 120, row: 67, col: 133 }
+sum: 271100
+SchematicNumber { value: 874, row: 68, col: 20 }
+sum: 271974
+SchematicNumber { value: 246, row: 68, col: 24 }
+sum: 272220
+SchematicNumber { value: 228, row: 68, col: 70 }
+sum: 272448
+SchematicNumber { value: 272, row: 68, col: 90 }
+sum: 272720
+SchematicNumber { value: 377, row: 68, col: 107 }
+sum: 273097
+SchematicNumber { value: 604, row: 68, col: 122 }
+sum: 273701
+SchematicNumber { value: 870, row: 69, col: 12 }
+sum: 274571
+SchematicNumber { value: 457, row: 69, col: 16 }
+sum: 275028
+SchematicNumber { value: 905, row: 69, col: 35 }
+sum: 275933
+SchematicNumber { value: 45, row: 69, col: 39 }
+sum: 275978
+SchematicNumber { value: 956, row: 69, col: 64 }
+sum: 276934
+SchematicNumber { value: 935, row: 69, col: 76 }
+sum: 277869
+SchematicNumber { value: 551, row: 69, col: 80 }
+sum: 278420
+SchematicNumber { value: 807, row: 69, col: 86 }
+sum: 279227
+SchematicNumber { value: 21, row: 69, col: 97 }
+sum: 279248
+SchematicNumber { value: 356, row: 69, col: 103 }
+sum: 279604
+SchematicNumber { value: 317, row: 69, col: 113 }
+sum: 279921
+SchematicNumber { value: 300, row: 70, col: 42 }
+sum: 280221
+SchematicNumber { value: 543, row: 70, col: 55 }
+sum: 280764
+SchematicNumber { value: 398, row: 70, col: 72 }
+sum: 281162
+SchematicNumber { value: 386, row: 70, col: 131 }
+sum: 281548
+SchematicNumber { value: 145, row: 71, col: 10 }
+sum: 281693
+SchematicNumber { value: 7, row: 71, col: 67 }
+sum: 281700
+SchematicNumber { value: 64, row: 71, col: 86 }
+sum: 281764
+SchematicNumber { value: 646, row: 71, col: 99 }
+sum: 282410
+SchematicNumber { value: 675, row: 71, col: 106 }
+sum: 283085
+SchematicNumber { value: 770, row: 71, col: 119 }
+sum: 283855
+SchematicNumber { value: 791, row: 71, col: 127 }
+sum: 284646
+SchematicNumber { value: 744, row: 72, col: 16 }
+sum: 285390
+SchematicNumber { value: 462, row: 72, col: 23 }
+sum: 285852
+SchematicNumber { value: 443, row: 72, col: 32 }
+sum: 286295
+SchematicNumber { value: 389, row: 72, col: 43 }
+sum: 286684
+SchematicNumber { value: 575, row: 72, col: 48 }
+sum: 287259
+SchematicNumber { value: 965, row: 72, col: 53 }
+sum: 288224
+SchematicNumber { value: 805, row: 72, col: 59 }
+sum: 289029
+SchematicNumber { value: 14, row: 72, col: 69 }
+sum: 289043
+SchematicNumber { value: 761, row: 72, col: 78 }
+sum: 289804
+SchematicNumber { value: 578, row: 72, col: 82 }
+sum: 290382
+SchematicNumber { value: 776, row: 72, col: 94 }
+sum: 291158
+SchematicNumber { value: 668, row: 73, col: 4 }
+sum: 291826
+SchematicNumber { value: 484, row: 73, col: 8 }
+sum: 292310
+SchematicNumber { value: 875, row: 73, col: 39 }
+sum: 293185
+SchematicNumber { value: 227, row: 73, col: 90 }
+sum: 293412
+SchematicNumber { value: 908, row: 73, col: 99 }
+sum: 294320
+SchematicNumber { value: 771, row: 74, col: 14 }
+sum: 295091
+SchematicNumber { value: 318, row: 74, col: 27 }
+sum: 295409
+SchematicNumber { value: 883, row: 74, col: 34 }
+sum: 296292
+SchematicNumber { value: 881, row: 74, col: 43 }
+sum: 297173
+SchematicNumber { value: 655, row: 74, col: 57 }
+sum: 297828
+SchematicNumber { value: 26, row: 74, col: 62 }
+sum: 297854
+SchematicNumber { value: 130, row: 74, col: 66 }
+sum: 297984
+SchematicNumber { value: 799, row: 74, col: 71 }
+sum: 298783
+SchematicNumber { value: 876, row: 74, col: 81 }
+sum: 299659
+SchematicNumber { value: 91, row: 74, col: 86 }
+sum: 299750
+SchematicNumber { value: 28, row: 74, col: 94 }
+sum: 299778
+SchematicNumber { value: 699, row: 74, col: 107 }
+sum: 300477
+SchematicNumber { value: 807, row: 74, col: 119 }
+sum: 301284
+SchematicNumber { value: 510, row: 74, col: 125 }
+sum: 301794
+SchematicNumber { value: 391, row: 75, col: 22 }
+sum: 302185
+SchematicNumber { value: 903, row: 75, col: 50 }
+sum: 303088
+SchematicNumber { value: 379, row: 75, col: 77 }
+sum: 303467
+SchematicNumber { value: 713, row: 75, col: 98 }
+sum: 304180
+SchematicNumber { value: 196, row: 76, col: 27 }
+sum: 304376
+SchematicNumber { value: 230, row: 76, col: 32 }
+sum: 304606
+SchematicNumber { value: 965, row: 76, col: 54 }
+sum: 305571
+SchematicNumber { value: 682, row: 76, col: 59 }
+sum: 306253
+SchematicNumber { value: 873, row: 76, col: 69 }
+sum: 307126
+SchematicNumber { value: 916, row: 76, col: 82 }
+sum: 308042
+SchematicNumber { value: 755, row: 76, col: 89 }
+sum: 308797
+SchematicNumber { value: 296, row: 76, col: 121 }
+sum: 309093
+SchematicNumber { value: 958, row: 76, col: 131 }
+sum: 310051
+SchematicNumber { value: 983, row: 76, col: 135 }
+sum: 311034
+SchematicNumber { value: 718, row: 77, col: 9 }
+sum: 311752
+SchematicNumber { value: 271, row: 77, col: 64 }
+sum: 312023
+SchematicNumber { value: 932, row: 77, col: 95 }
+sum: 312955
+SchematicNumber { value: 621, row: 77, col: 105 }
+sum: 313576
+SchematicNumber { value: 843, row: 77, col: 114 }
+sum: 314419
+SchematicNumber { value: 59, row: 78, col: 2 }
+sum: 314478
+SchematicNumber { value: 2, row: 78, col: 15 }
+sum: 314480
+SchematicNumber { value: 400, row: 78, col: 59 }
+sum: 314880
+SchematicNumber { value: 142, row: 78, col: 69 }
+sum: 315022
+SchematicNumber { value: 870, row: 78, col: 73 }
+sum: 315892
+SchematicNumber { value: 746, row: 78, col: 79 }
+sum: 316638
+SchematicNumber { value: 256, row: 78, col: 88 }
+sum: 316894
+SchematicNumber { value: 865, row: 78, col: 101 }
+sum: 317759
+SchematicNumber { value: 409, row: 78, col: 130 }
+sum: 318168
+SchematicNumber { value: 761, row: 78, col: 136 }
+sum: 318929
+SchematicNumber { value: 122, row: 79, col: 24 }
+sum: 319051
+SchematicNumber { value: 157, row: 79, col: 28 }
+sum: 319208
+SchematicNumber { value: 394, row: 79, col: 42 }
+sum: 319602
+SchematicNumber { value: 444, row: 79, col: 55 }
+sum: 320046
+SchematicNumber { value: 207, row: 79, col: 63 }
+sum: 320253
+SchematicNumber { value: 434, row: 79, col: 118 }
+sum: 320687
+SchematicNumber { value: 827, row: 79, col: 123 }
+sum: 321514
+SchematicNumber { value: 19, row: 80, col: 10 }
+sum: 321533
+SchematicNumber { value: 624, row: 80, col: 32 }
+sum: 322157
+SchematicNumber { value: 398, row: 80, col: 51 }
+sum: 322555
+SchematicNumber { value: 373, row: 80, col: 75 }
+sum: 322928
+SchematicNumber { value: 16, row: 80, col: 95 }
+sum: 322944
+SchematicNumber { value: 878, row: 80, col: 106 }
+sum: 323822
+SchematicNumber { value: 890, row: 80, col: 127 }
+sum: 324712
+SchematicNumber { value: 487, row: 81, col: 15 }
+sum: 325199
+SchematicNumber { value: 884, row: 81, col: 28 }
+sum: 326083
+SchematicNumber { value: 199, row: 81, col: 42 }
+sum: 326282
+SchematicNumber { value: 227, row: 81, col: 46 }
+sum: 326509
+SchematicNumber { value: 723, row: 81, col: 57 }
+sum: 327232
+SchematicNumber { value: 914, row: 81, col: 66 }
+sum: 328146
+SchematicNumber { value: 411, row: 81, col: 70 }
+sum: 328557
+SchematicNumber { value: 228, row: 81, col: 84 }
+sum: 328785
+SchematicNumber { value: 872, row: 81, col: 117 }
+sum: 329657
+SchematicNumber { value: 937, row: 82, col: 5 }
+sum: 330594
+SchematicNumber { value: 306, row: 82, col: 35 }
+sum: 330900
+SchematicNumber { value: 522, row: 82, col: 102 }
+sum: 331422
+SchematicNumber { value: 309, row: 82, col: 107 }
+sum: 331731
+SchematicNumber { value: 16, row: 82, col: 112 }
+sum: 331747
+SchematicNumber { value: 765, row: 82, col: 133 }
+sum: 332512
+SchematicNumber { value: 128, row: 83, col: 27 }
+sum: 332640
+SchematicNumber { value: 136, row: 83, col: 51 }
+sum: 332776
+SchematicNumber { value: 773, row: 83, col: 78 }
+sum: 333549
+SchematicNumber { value: 114, row: 83, col: 84 }
+sum: 333663
+SchematicNumber { value: 33, row: 83, col: 98 }
+sum: 333696
+SchematicNumber { value: 615, row: 83, col: 119 }
+sum: 334311
+SchematicNumber { value: 249, row: 84, col: 1 }
+sum: 334560
+SchematicNumber { value: 590, row: 84, col: 9 }
+sum: 335150
+SchematicNumber { value: 949, row: 84, col: 18 }
+sum: 336099
+SchematicNumber { value: 380, row: 84, col: 33 }
+sum: 336479
+SchematicNumber { value: 996, row: 84, col: 46 }
+sum: 337475
+SchematicNumber { value: 28, row: 84, col: 69 }
+sum: 337503
+SchematicNumber { value: 310, row: 84, col: 74 }
+sum: 337813
+SchematicNumber { value: 338, row: 84, col: 101 }
+sum: 338151
+SchematicNumber { value: 770, row: 84, col: 109 }
+sum: 338921
+SchematicNumber { value: 559, row: 84, col: 115 }
+sum: 339480
+SchematicNumber { value: 854, row: 85, col: 5 }
+sum: 340334
+SchematicNumber { value: 678, row: 85, col: 13 }
+sum: 341012
+SchematicNumber { value: 646, row: 85, col: 39 }
+sum: 341658
+SchematicNumber { value: 422, row: 85, col: 96 }
+sum: 342080
+SchematicNumber { value: 231, row: 85, col: 120 }
+sum: 342311
+SchematicNumber { value: 122, row: 85, col: 130 }
+sum: 342433
+SchematicNumber { value: 552, row: 86, col: 18 }
+sum: 342985
+SchematicNumber { value: 741, row: 86, col: 45 }
+sum: 343726
+SchematicNumber { value: 437, row: 86, col: 66 }
+sum: 344163
+SchematicNumber { value: 455, row: 86, col: 77 }
+sum: 344618
+SchematicNumber { value: 768, row: 86, col: 81 }
+sum: 345386
+SchematicNumber { value: 134, row: 86, col: 86 }
+sum: 345520
+SchematicNumber { value: 69, row: 86, col: 91 }
+sum: 345589
+SchematicNumber { value: 519, row: 86, col: 112 }
+sum: 346108
+SchematicNumber { value: 976, row: 87, col: 7 }
+sum: 347084
+SchematicNumber { value: 466, row: 87, col: 23 }
+sum: 347550
+SchematicNumber { value: 497, row: 87, col: 32 }
+sum: 348047
+SchematicNumber { value: 607, row: 87, col: 49 }
+sum: 348654
+SchematicNumber { value: 783, row: 87, col: 58 }
+sum: 349437
+SchematicNumber { value: 28, row: 87, col: 103 }
+sum: 349465
+SchematicNumber { value: 279, row: 87, col: 123 }
+sum: 349744
+SchematicNumber { value: 394, row: 87, col: 132 }
+sum: 350138
+SchematicNumber { value: 857, row: 88, col: 17 }
+sum: 350995
+SchematicNumber { value: 542, row: 88, col: 28 }
+sum: 351537
+SchematicNumber { value: 915, row: 88, col: 40 }
+sum: 352452
+SchematicNumber { value: 543, row: 88, col: 44 }
+sum: 352995
+SchematicNumber { value: 979, row: 88, col: 65 }
+sum: 353974
+SchematicNumber { value: 581, row: 88, col: 71 }
+sum: 354555
+SchematicNumber { value: 66, row: 88, col: 75 }
+sum: 354621
+SchematicNumber { value: 555, row: 88, col: 83 }
+sum: 355176
+SchematicNumber { value: 331, row: 88, col: 106 }
+sum: 355507
+SchematicNumber { value: 281, row: 88, col: 128 }
+sum: 355788
+SchematicNumber { value: 715, row: 89, col: 4 }
+sum: 356503
+SchematicNumber { value: 542, row: 89, col: 13 }
+sum: 357045
+SchematicNumber { value: 20, row: 89, col: 21 }
+sum: 357065
+SchematicNumber { value: 241, row: 89, col: 36 }
+sum: 357306
+SchematicNumber { value: 701, row: 89, col: 56 }
+sum: 358007
+SchematicNumber { value: 113, row: 89, col: 78 }
+sum: 358120
+SchematicNumber { value: 193, row: 89, col: 90 }
+sum: 358313
+SchematicNumber { value: 96, row: 89, col: 95 }
+sum: 358409
+SchematicNumber { value: 305, row: 89, col: 98 }
+sum: 358714
+SchematicNumber { value: 489, row: 89, col: 134 }
+sum: 359203
+SchematicNumber { value: 219, row: 90, col: 0 }
+sum: 359422
+SchematicNumber { value: 599, row: 90, col: 41 }
+sum: 360021
+SchematicNumber { value: 845, row: 90, col: 47 }
+sum: 360866
+SchematicNumber { value: 996, row: 90, col: 117 }
+sum: 361862
+SchematicNumber { value: 240, row: 90, col: 123 }
+sum: 362102
+SchematicNumber { value: 151, row: 91, col: 10 }
+sum: 362253
+SchematicNumber { value: 554, row: 91, col: 20 }
+sum: 362807
+SchematicNumber { value: 665, row: 91, col: 52 }
+sum: 363472
+SchematicNumber { value: 398, row: 91, col: 83 }
+sum: 363870
+SchematicNumber { value: 450, row: 91, col: 88 }
+sum: 364320
+SchematicNumber { value: 426, row: 91, col: 93 }
+sum: 364746
+SchematicNumber { value: 326, row: 91, col: 109 }
+sum: 365072
+SchematicNumber { value: 129, row: 91, col: 133 }
+sum: 365201
+SchematicNumber { value: 687, row: 92, col: 39 }
+sum: 365888
+SchematicNumber { value: 588, row: 92, col: 56 }
+sum: 366476
+SchematicNumber { value: 62, row: 92, col: 63 }
+sum: 366538
+SchematicNumber { value: 504, row: 92, col: 75 }
+sum: 367042
+SchematicNumber { value: 970, row: 92, col: 126 }
+sum: 368012
+SchematicNumber { value: 463, row: 93, col: 10 }
+sum: 368475
+SchematicNumber { value: 776, row: 93, col: 18 }
+sum: 369251
+SchematicNumber { value: 90, row: 93, col: 79 }
+sum: 369341
+SchematicNumber { value: 834, row: 93, col: 85 }
+sum: 370175
+SchematicNumber { value: 514, row: 93, col: 95 }
+sum: 370689
+SchematicNumber { value: 770, row: 93, col: 105 }
+sum: 371459
+SchematicNumber { value: 667, row: 93, col: 115 }
+sum: 372126
+SchematicNumber { value: 392, row: 94, col: 4 }
+sum: 372518
+SchematicNumber { value: 371, row: 94, col: 41 }
+sum: 372889
+SchematicNumber { value: 906, row: 94, col: 58 }
+sum: 373795
+SchematicNumber { value: 56, row: 94, col: 62 }
+sum: 373851
+SchematicNumber { value: 435, row: 94, col: 122 }
+sum: 374286
+SchematicNumber { value: 308, row: 94, col: 130 }
+sum: 374594
+SchematicNumber { value: 908, row: 95, col: 22 }
+sum: 375502
+SchematicNumber { value: 497, row: 95, col: 35 }
+sum: 375999
+SchematicNumber { value: 884, row: 95, col: 75 }
+sum: 376883
+SchematicNumber { value: 849, row: 95, col: 82 }
+sum: 377732
+SchematicNumber { value: 374, row: 95, col: 97 }
+sum: 378106
+SchematicNumber { value: 620, row: 95, col: 105 }
+sum: 378726
+SchematicNumber { value: 727, row: 95, col: 112 }
+sum: 379453
+SchematicNumber { value: 125, row: 96, col: 1 }
+sum: 379578
+SchematicNumber { value: 862, row: 96, col: 12 }
+sum: 380440
+SchematicNumber { value: 326, row: 96, col: 16 }
+sum: 380766
+SchematicNumber { value: 497, row: 96, col: 45 }
+sum: 381263
+SchematicNumber { value: 811, row: 96, col: 54 }
+sum: 382074
+SchematicNumber { value: 213, row: 96, col: 64 }
+sum: 382287
+SchematicNumber { value: 465, row: 96, col: 86 }
+sum: 382752
+SchematicNumber { value: 64, row: 96, col: 109 }
+sum: 382816
+SchematicNumber { value: 993, row: 96, col: 116 }
+sum: 383809
+SchematicNumber { value: 288, row: 97, col: 28 }
+sum: 384097
+SchematicNumber { value: 617, row: 97, col: 58 }
+sum: 384714
+SchematicNumber { value: 677, row: 97, col: 75 }
+sum: 385391
+SchematicNumber { value: 32, row: 97, col: 92 }
+sum: 385423
+SchematicNumber { value: 907, row: 97, col: 105 }
+sum: 386330
+SchematicNumber { value: 48, row: 97, col: 129 }
+sum: 386378
+SchematicNumber { value: 475, row: 97, col: 132 }
+sum: 386853
+SchematicNumber { value: 787, row: 98, col: 9 }
+sum: 387640
+SchematicNumber { value: 400, row: 98, col: 21 }
+sum: 388040
+SchematicNumber { value: 420, row: 98, col: 37 }
+sum: 388460
+SchematicNumber { value: 884, row: 98, col: 44 }
+sum: 389344
+SchematicNumber { value: 425, row: 98, col: 48 }
+sum: 389769
+SchematicNumber { value: 727, row: 98, col: 69 }
+sum: 390496
+SchematicNumber { value: 27, row: 98, col: 81 }
+sum: 390523
+SchematicNumber { value: 181, row: 98, col: 85 }
+sum: 390704
+SchematicNumber { value: 414, row: 98, col: 98 }
+sum: 391118
+SchematicNumber { value: 986, row: 98, col: 115 }
+sum: 392104
+SchematicNumber { value: 114, row: 98, col: 124 }
+sum: 392218
+SchematicNumber { value: 596, row: 99, col: 28 }
+sum: 392814
+SchematicNumber { value: 863, row: 99, col: 58 }
+sum: 393677
+SchematicNumber { value: 428, row: 99, col: 94 }
+sum: 394105
+SchematicNumber { value: 899, row: 99, col: 106 }
+sum: 395004
+SchematicNumber { value: 595, row: 100, col: 1 }
+sum: 395599
+SchematicNumber { value: 112, row: 100, col: 6 }
+sum: 395711
+SchematicNumber { value: 737, row: 100, col: 10 }
+sum: 396448
+SchematicNumber { value: 699, row: 100, col: 14 }
+sum: 397147
+SchematicNumber { value: 382, row: 100, col: 33 }
+sum: 397529
+SchematicNumber { value: 888, row: 100, col: 37 }
+sum: 398417
+SchematicNumber { value: 315, row: 100, col: 66 }
+sum: 398732
+SchematicNumber { value: 325, row: 100, col: 76 }
+sum: 399057
+SchematicNumber { value: 115, row: 100, col: 100 }
+sum: 399172
+SchematicNumber { value: 652, row: 101, col: 27 }
+sum: 399824
+SchematicNumber { value: 182, row: 101, col: 72 }
+sum: 400006
+SchematicNumber { value: 219, row: 101, col: 82 }
+sum: 400225
+SchematicNumber { value: 945, row: 101, col: 95 }
+sum: 401170
+SchematicNumber { value: 844, row: 101, col: 112 }
+sum: 402014
+SchematicNumber { value: 996, row: 101, col: 126 }
+sum: 403010
+SchematicNumber { value: 744, row: 101, col: 133 }
+sum: 403754
+SchematicNumber { value: 87, row: 102, col: 2 }
+sum: 403841
+SchematicNumber { value: 749, row: 102, col: 10 }
+sum: 404590
+SchematicNumber { value: 535, row: 102, col: 15 }
+sum: 405125
+SchematicNumber { value: 395, row: 102, col: 21 }
+sum: 405520
+SchematicNumber { value: 339, row: 102, col: 31 }
+sum: 405859
+SchematicNumber { value: 564, row: 102, col: 36 }
+sum: 406423
+SchematicNumber { value: 813, row: 102, col: 44 }
+sum: 407236
+SchematicNumber { value: 410, row: 102, col: 51 }
+sum: 407646
+SchematicNumber { value: 135, row: 102, col: 63 }
+sum: 407781
+SchematicNumber { value: 330, row: 102, col: 77 }
+sum: 408111
+SchematicNumber { value: 585, row: 102, col: 101 }
+sum: 408696
+SchematicNumber { value: 967, row: 103, col: 40 }
+sum: 409663
+SchematicNumber { value: 921, row: 103, col: 58 }
+sum: 410584
+SchematicNumber { value: 321, row: 103, col: 67 }
+sum: 410905
+SchematicNumber { value: 612, row: 103, col: 93 }
+sum: 411517
+SchematicNumber { value: 44, row: 103, col: 124 }
+sum: 411561
+SchematicNumber { value: 764, row: 104, col: 7 }
+sum: 412325
+SchematicNumber { value: 716, row: 104, col: 13 }
+sum: 413041
+SchematicNumber { value: 818, row: 104, col: 28 }
+sum: 413859
+SchematicNumber { value: 327, row: 104, col: 33 }
+sum: 414186
+SchematicNumber { value: 578, row: 104, col: 50 }
+sum: 414764
+SchematicNumber { value: 941, row: 104, col: 78 }
+sum: 415705
+SchematicNumber { value: 736, row: 104, col: 99 }
+sum: 416441
+SchematicNumber { value: 421, row: 104, col: 105 }
+sum: 416862
+SchematicNumber { value: 762, row: 104, col: 116 }
+sum: 417624
+SchematicNumber { value: 282, row: 104, col: 128 }
+sum: 417906
+SchematicNumber { value: 861, row: 105, col: 0 }
+sum: 418767
+SchematicNumber { value: 714, row: 105, col: 60 }
+sum: 419481
+SchematicNumber { value: 867, row: 105, col: 83 }
+sum: 420348
+SchematicNumber { value: 863, row: 105, col: 91 }
+sum: 421211
+SchematicNumber { value: 614, row: 105, col: 123 }
+sum: 421825
+SchematicNumber { value: 549, row: 106, col: 8 }
+sum: 422374
+SchematicNumber { value: 260, row: 106, col: 32 }
+sum: 422634
+SchematicNumber { value: 91, row: 106, col: 44 }
+sum: 422725
+SchematicNumber { value: 85, row: 106, col: 78 }
+sum: 422810
+SchematicNumber { value: 803, row: 106, col: 96 }
+sum: 423613
+SchematicNumber { value: 895, row: 106, col: 100 }
+sum: 424508
+SchematicNumber { value: 622, row: 106, col: 105 }
+sum: 425130
+SchematicNumber { value: 684, row: 106, col: 134 }
+sum: 425814
+SchematicNumber { value: 770, row: 107, col: 12 }
+sum: 426584
+SchematicNumber { value: 346, row: 107, col: 16 }
+sum: 426930
+SchematicNumber { value: 714, row: 107, col: 24 }
+sum: 427644
+SchematicNumber { value: 652, row: 107, col: 28 }
+sum: 428296
+SchematicNumber { value: 270, row: 107, col: 49 }
+sum: 428566
+SchematicNumber { value: 66, row: 107, col: 92 }
+sum: 428632
+SchematicNumber { value: 337, row: 107, col: 110 }
+sum: 428969
+SchematicNumber { value: 176, row: 107, col: 114 }
+sum: 429145
+SchematicNumber { value: 813, row: 107, col: 118 }
+sum: 429958
+SchematicNumber { value: 483, row: 107, col: 124 }
+sum: 430441
+SchematicNumber { value: 223, row: 107, col: 130 }
+sum: 430664
+SchematicNumber { value: 505, row: 108, col: 60 }
+sum: 431169
+SchematicNumber { value: 957, row: 108, col: 66 }
+sum: 432126
+SchematicNumber { value: 285, row: 108, col: 86 }
+sum: 432411
+SchematicNumber { value: 881, row: 108, col: 95 }
+sum: 433292
+SchematicNumber { value: 497, row: 108, col: 103 }
+sum: 433789
+SchematicNumber { value: 588, row: 109, col: 23 }
+sum: 434377
+SchematicNumber { value: 227, row: 109, col: 34 }
+sum: 434604
+SchematicNumber { value: 639, row: 109, col: 41 }
+sum: 435243
+SchematicNumber { value: 741, row: 109, col: 56 }
+sum: 435984
+SchematicNumber { value: 443, row: 109, col: 70 }
+sum: 436427
+SchematicNumber { value: 681, row: 109, col: 75 }
+sum: 437108
+SchematicNumber { value: 153, row: 109, col: 91 }
+sum: 437261
+SchematicNumber { value: 335, row: 109, col: 118 }
+sum: 437596
+SchematicNumber { value: 201, row: 110, col: 8 }
+sum: 437797
+SchematicNumber { value: 671, row: 110, col: 12 }
+sum: 438468
+SchematicNumber { value: 96, row: 110, col: 16 }
+sum: 438564
+SchematicNumber { value: 415, row: 110, col: 84 }
+sum: 438979
+SchematicNumber { value: 155, row: 110, col: 111 }
+sum: 439134
+SchematicNumber { value: 848, row: 110, col: 125 }
+sum: 439982
+SchematicNumber { value: 58, row: 110, col: 129 }
+sum: 440040
+SchematicNumber { value: 922, row: 111, col: 28 }
+sum: 440962
+SchematicNumber { value: 92, row: 111, col: 37 }
+sum: 441054
+SchematicNumber { value: 39, row: 111, col: 80 }
+sum: 441093
+SchematicNumber { value: 208, row: 111, col: 90 }
+sum: 441301
+SchematicNumber { value: 389, row: 111, col: 95 }
+sum: 441690
+SchematicNumber { value: 696, row: 111, col: 104 }
+sum: 442386
+SchematicNumber { value: 883, row: 111, col: 133 }
+sum: 443269
+SchematicNumber { value: 237, row: 112, col: 4 }
+sum: 443506
+SchematicNumber { value: 950, row: 112, col: 16 }
+sum: 444456
+SchematicNumber { value: 80, row: 112, col: 41 }
+sum: 444536
+SchematicNumber { value: 657, row: 112, col: 110 }
+sum: 445193
+SchematicNumber { value: 611, row: 113, col: 9 }
+sum: 445804
+SchematicNumber { value: 671, row: 113, col: 25 }
+sum: 446475
+SchematicNumber { value: 443, row: 113, col: 31 }
+sum: 446918
+SchematicNumber { value: 971, row: 113, col: 37 }
+sum: 447889
+SchematicNumber { value: 366, row: 113, col: 46 }
+sum: 448255
+SchematicNumber { value: 381, row: 113, col: 53 }
+sum: 448636
+SchematicNumber { value: 343, row: 113, col: 84 }
+sum: 448979
+SchematicNumber { value: 397, row: 113, col: 88 }
+sum: 449376
+SchematicNumber { value: 60, row: 113, col: 106 }
+sum: 449436
+SchematicNumber { value: 125, row: 113, col: 124 }
+sum: 449561
+SchematicNumber { value: 945, row: 114, col: 13 }
+sum: 450506
+SchematicNumber { value: 564, row: 114, col: 18 }
+sum: 451070
+SchematicNumber { value: 783, row: 114, col: 71 }
+sum: 451853
+SchematicNumber { value: 28, row: 114, col: 116 }
+sum: 451881
+SchematicNumber { value: 373, row: 114, col: 134 }
+sum: 452254
+SchematicNumber { value: 843, row: 115, col: 25 }
+sum: 453097
+SchematicNumber { value: 550, row: 115, col: 30 }
+sum: 453647
+SchematicNumber { value: 998, row: 115, col: 35 }
+sum: 454645
+SchematicNumber { value: 973, row: 115, col: 39 }
+sum: 455618
+SchematicNumber { value: 565, row: 115, col: 61 }
+sum: 456183
+SchematicNumber { value: 231, row: 115, col: 81 }
+sum: 456414
+SchematicNumber { value: 292, row: 115, col: 90 }
+sum: 456706
+SchematicNumber { value: 365, row: 115, col: 107 }
+sum: 457071
+SchematicNumber { value: 172, row: 115, col: 112 }
+sum: 457243
+SchematicNumber { value: 615, row: 116, col: 15 }
+sum: 457858
+SchematicNumber { value: 299, row: 116, col: 49 }
+sum: 458157
+SchematicNumber { value: 862, row: 116, col: 67 }
+sum: 459019
+SchematicNumber { value: 895, row: 116, col: 71 }
+sum: 459914
+SchematicNumber { value: 86, row: 116, col: 87 }
+sum: 460000
+SchematicNumber { value: 114, row: 116, col: 97 }
+sum: 460114
+SchematicNumber { value: 552, row: 116, col: 102 }
+sum: 460666
+SchematicNumber { value: 733, row: 116, col: 125 }
+sum: 461399
+SchematicNumber { value: 388, row: 116, col: 131 }
+sum: 461787
+SchematicNumber { value: 212, row: 117, col: 37 }
+sum: 461999
+SchematicNumber { value: 885, row: 117, col: 53 }
+sum: 462884
+SchematicNumber { value: 903, row: 117, col: 75 }
+sum: 463787
+SchematicNumber { value: 26, row: 117, col: 80 }
+sum: 463813
+SchematicNumber { value: 50, row: 117, col: 93 }
+sum: 463863
+SchematicNumber { value: 158, row: 117, col: 111 }
+sum: 464021
+SchematicNumber { value: 11, row: 118, col: 14 }
+sum: 464032
+SchematicNumber { value: 360, row: 118, col: 18 }
+sum: 464392
+SchematicNumber { value: 748, row: 118, col: 25 }
+sum: 465140
+SchematicNumber { value: 67, row: 118, col: 50 }
+sum: 465207
+SchematicNumber { value: 272, row: 118, col: 57 }
+sum: 465479
+SchematicNumber { value: 320, row: 118, col: 65 }
+sum: 465799
+SchematicNumber { value: 16, row: 118, col: 71 }
+sum: 465815
+SchematicNumber { value: 137, row: 118, col: 83 }
+sum: 465952
+SchematicNumber { value: 905, row: 118, col: 87 }
+sum: 466857
+SchematicNumber { value: 239, row: 118, col: 96 }
+sum: 467096
+SchematicNumber { value: 433, row: 118, col: 130 }
+sum: 467529
+SchematicNumber { value: 141, row: 119, col: 3 }
+sum: 467670
+SchematicNumber { value: 967, row: 119, col: 34 }
+sum: 468637
+SchematicNumber { value: 243, row: 119, col: 61 }
+sum: 468880
+SchematicNumber { value: 904, row: 119, col: 75 }
+sum: 469784
+SchematicNumber { value: 88, row: 119, col: 110 }
+sum: 469872
+SchematicNumber { value: 377, row: 119, col: 113 }
+sum: 470249
+SchematicNumber { value: 619, row: 119, col: 122 }
+sum: 470868
+SchematicNumber { value: 668, row: 120, col: 23 }
+sum: 471536
+SchematicNumber { value: 461, row: 120, col: 39 }
+sum: 471997
+SchematicNumber { value: 525, row: 120, col: 44 }
+sum: 472522
+SchematicNumber { value: 662, row: 120, col: 52 }
+sum: 473184
+SchematicNumber { value: 196, row: 120, col: 67 }
+sum: 473380
+SchematicNumber { value: 28, row: 120, col: 72 }
+sum: 473408
+SchematicNumber { value: 778, row: 120, col: 88 }
+sum: 474186
+SchematicNumber { value: 940, row: 120, col: 94 }
+sum: 475126
+SchematicNumber { value: 400, row: 120, col: 99 }
+sum: 475526
+SchematicNumber { value: 682, row: 120, col: 104 }
+sum: 476208
+SchematicNumber { value: 638, row: 120, col: 127 }
+sum: 476846
+SchematicNumber { value: 779, row: 121, col: 0 }
+sum: 477625
+SchematicNumber { value: 113, row: 121, col: 6 }
+sum: 477738
+SchematicNumber { value: 209, row: 121, col: 17 }
+sum: 477947
+SchematicNumber { value: 744, row: 121, col: 31 }
+sum: 478691
+SchematicNumber { value: 144, row: 121, col: 58 }
+sum: 478835
+SchematicNumber { value: 811, row: 121, col: 63 }
+sum: 479646
+SchematicNumber { value: 297, row: 121, col: 109 }
+sum: 479943
+SchematicNumber { value: 713, row: 121, col: 114 }
+sum: 480656
+SchematicNumber { value: 50, row: 121, col: 122 }
+sum: 480706
+SchematicNumber { value: 6, row: 122, col: 42 }
+sum: 480712
+SchematicNumber { value: 62, row: 122, col: 54 }
+sum: 480774
+SchematicNumber { value: 957, row: 122, col: 77 }
+sum: 481731
+SchematicNumber { value: 112, row: 122, col: 91 }
+sum: 481843
+SchematicNumber { value: 211, row: 122, col: 102 }
+sum: 482054
+SchematicNumber { value: 173, row: 122, col: 118 }
+sum: 482227
+SchematicNumber { value: 989, row: 122, col: 125 }
+sum: 483216
+SchematicNumber { value: 749, row: 123, col: 2 }
+sum: 483965
+SchematicNumber { value: 989, row: 123, col: 19 }
+sum: 484954
+SchematicNumber { value: 931, row: 123, col: 24 }
+sum: 485885
+SchematicNumber { value: 424, row: 123, col: 61 }
+sum: 486309
+SchematicNumber { value: 709, row: 123, col: 73 }
+sum: 487018
+SchematicNumber { value: 867, row: 123, col: 83 }
+sum: 487885
+SchematicNumber { value: 590, row: 123, col: 98 }
+sum: 488475
+SchematicNumber { value: 645, row: 123, col: 131 }
+sum: 489120
+SchematicNumber { value: 290, row: 124, col: 6 }
+sum: 489410
+SchematicNumber { value: 573, row: 124, col: 12 }
+sum: 489983
+SchematicNumber { value: 227, row: 124, col: 41 }
+sum: 490210
+SchematicNumber { value: 53, row: 124, col: 49 }
+sum: 490263
+SchematicNumber { value: 132, row: 124, col: 57 }
+sum: 490395
+SchematicNumber { value: 471, row: 124, col: 77 }
+sum: 490866
+SchematicNumber { value: 501, row: 124, col: 94 }
+sum: 491367
+SchematicNumber { value: 733, row: 124, col: 118 }
+sum: 492100
+SchematicNumber { value: 270, row: 124, col: 126 }
+sum: 492370
+SchematicNumber { value: 637, row: 125, col: 2 }
+sum: 493007
+SchematicNumber { value: 596, row: 125, col: 21 }
+sum: 493603
+SchematicNumber { value: 400, row: 125, col: 65 }
+sum: 494003
+SchematicNumber { value: 958, row: 126, col: 6 }
+sum: 494961
+SchematicNumber { value: 757, row: 126, col: 14 }
+sum: 495718
+SchematicNumber { value: 228, row: 126, col: 37 }
+sum: 495946
+SchematicNumber { value: 746, row: 126, col: 52 }
+sum: 496692
+SchematicNumber { value: 81, row: 126, col: 56 }
+sum: 496773
+SchematicNumber { value: 718, row: 126, col: 80 }
+sum: 497491
+SchematicNumber { value: 198, row: 126, col: 84 }
+sum: 497689
+SchematicNumber { value: 38, row: 126, col: 89 }
+sum: 497727
+SchematicNumber { value: 184, row: 126, col: 94 }
+sum: 497911
+SchematicNumber { value: 820, row: 126, col: 112 }
+sum: 498731
+SchematicNumber { value: 830, row: 126, col: 128 }
+sum: 499561
+SchematicNumber { value: 693, row: 126, col: 132 }
+sum: 500254
+SchematicNumber { value: 453, row: 127, col: 25 }
+sum: 500707
+SchematicNumber { value: 405, row: 127, col: 31 }
+sum: 501112
+SchematicNumber { value: 100, row: 127, col: 60 }
+sum: 501212
+SchematicNumber { value: 144, row: 127, col: 64 }
+sum: 501356
+SchematicNumber { value: 728, row: 127, col: 74 }
+sum: 502084
+SchematicNumber { value: 498, row: 127, col: 108 }
+sum: 502582
+SchematicNumber { value: 616, row: 128, col: 2 }
+sum: 503198
+SchematicNumber { value: 756, row: 128, col: 35 }
+sum: 503954
+SchematicNumber { value: 310, row: 128, col: 41 }
+sum: 504264
+SchematicNumber { value: 52, row: 128, col: 54 }
+sum: 504316
+SchematicNumber { value: 130, row: 128, col: 69 }
+sum: 504446
+SchematicNumber { value: 506, row: 128, col: 88 }
+sum: 504952
+SchematicNumber { value: 509, row: 128, col: 96 }
+sum: 505461
+SchematicNumber { value: 779, row: 128, col: 100 }
+sum: 506240
+SchematicNumber { value: 723, row: 128, col: 113 }
+sum: 506963
+SchematicNumber { value: 182, row: 128, col: 123 }
+sum: 507145
+SchematicNumber { value: 551, row: 129, col: 30 }
+sum: 507696
+SchematicNumber { value: 789, row: 129, col: 60 }
+sum: 508485
+SchematicNumber { value: 306, row: 129, col: 77 }
+sum: 508791
+SchematicNumber { value: 613, row: 129, col: 83 }
+sum: 509404
+SchematicNumber { value: 791, row: 129, col: 128 }
+sum: 510195
+SchematicNumber { value: 931, row: 129, col: 133 }
+sum: 511126
+SchematicNumber { value: 863, row: 130, col: 3 }
+sum: 511989
+SchematicNumber { value: 72, row: 130, col: 13 }
+sum: 512061
+SchematicNumber { value: 832, row: 130, col: 21 }
+sum: 512893
+SchematicNumber { value: 653, row: 130, col: 25 }
+sum: 513546
+SchematicNumber { value: 490, row: 130, col: 37 }
+sum: 514036
+SchematicNumber { value: 814, row: 130, col: 44 }
+sum: 514850
+SchematicNumber { value: 984, row: 130, col: 52 }
+sum: 515834
+SchematicNumber { value: 741, row: 130, col: 64 }
+sum: 516575
+SchematicNumber { value: 568, row: 130, col: 70 }
+sum: 517143
+SchematicNumber { value: 998, row: 130, col: 101 }
+sum: 518141
+SchematicNumber { value: 567, row: 130, col: 112 }
+sum: 518708
+SchematicNumber { value: 171, row: 131, col: 9 }
+sum: 518879
+SchematicNumber { value: 406, row: 131, col: 33 }
+sum: 519285
+SchematicNumber { value: 389, row: 131, col: 56 }
+sum: 519674
+SchematicNumber { value: 486, row: 131, col: 80 }
+sum: 520160
+SchematicNumber { value: 457, row: 131, col: 121 }
+sum: 520617
+SchematicNumber { value: 576, row: 131, col: 125 }
+sum: 521193
+SchematicNumber { value: 308, row: 132, col: 14 }
+sum: 521501
+SchematicNumber { value: 515, row: 132, col: 19 }
+sum: 522016
+SchematicNumber { value: 373, row: 132, col: 40 }
+sum: 522389
+SchematicNumber { value: 709, row: 132, col: 50 }
+sum: 523098
+SchematicNumber { value: 185, row: 132, col: 71 }
+sum: 523283
+SchematicNumber { value: 689, row: 132, col: 92 }
+sum: 523972
+SchematicNumber { value: 751, row: 132, col: 105 }
+sum: 524723
+SchematicNumber { value: 44, row: 132, col: 116 }
+sum: 524767
+SchematicNumber { value: 764, row: 132, col: 129 }
+sum: 525531
+SchematicNumber { value: 993, row: 133, col: 60 }
+sum: 526524
+SchematicNumber { value: 984, row: 133, col: 67 }
+sum: 527508
+SchematicNumber { value: 273, row: 133, col: 96 }
+sum: 527781
+SchematicNumber { value: 582, row: 134, col: 7 }
+sum: 528363
+SchematicNumber { value: 335, row: 134, col: 12 }
+sum: 528698
+SchematicNumber { value: 998, row: 134, col: 33 }
+sum: 529696
+SchematicNumber { value: 39, row: 134, col: 44 }
+sum: 529735
+SchematicNumber { value: 760, row: 134, col: 47 }
+sum: 530495
+SchematicNumber { value: 313, row: 134, col: 51 }
+sum: 530808
+SchematicNumber { value: 174, row: 134, col: 55 }
+sum: 530982
+SchematicNumber { value: 183, row: 134, col: 74 }
+sum: 531165
+SchematicNumber { value: 47, row: 134, col: 100 }
+sum: 531212
+SchematicNumber { value: 994, row: 134, col: 107 }
+sum: 532206
+SchematicNumber { value: 887, row: 134, col: 111 }
+sum: 533093
+SchematicNumber { value: 577, row: 134, col: 115 }
+sum: 533670
+SchematicNumber { value: 464, row: 134, col: 127 }
+sum: 534134
+SchematicNumber { value: 22, row: 134, col: 135 }
+sum: 534156
+SchematicNumber { value: 449, row: 135, col: 38 }
+sum: 534605
+SchematicNumber { value: 802, row: 135, col: 59 }
+sum: 535407
+SchematicNumber { value: 762, row: 135, col: 70 }
+sum: 536169
+SchematicNumber { value: 139, row: 135, col: 83 }
+sum: 536308
+SchematicNumber { value: 154, row: 135, col: 89 }
+sum: 536462
+SchematicNumber { value: 266, row: 135, col: 94 }
+sum: 536728
+SchematicNumber { value: 46, row: 135, col: 120 }
+sum: 536774
+SchematicNumber { value: 323, row: 135, col: 123 }
+sum: 537097
+SchematicNumber { value: 712, row: 135, col: 131 }
+sum: 537809
+SchematicNumber { value: 827, row: 136, col: 4 }
+sum: 538636
+SchematicNumber { value: 600, row: 136, col: 52 }
+sum: 539236
+SchematicNumber { value: 29, row: 136, col: 56 }
+sum: 539265
+SchematicNumber { value: 724, row: 136, col: 63 }
+sum: 539989
+SchematicNumber { value: 488, row: 136, col: 74 }
+sum: 540477
+SchematicNumber { value: 149, row: 136, col: 105 }
+sum: 540626
+SchematicNumber { value: 227, row: 136, col: 109 }
+sum: 540853
+SchematicNumber { value: 278, row: 137, col: 15 }
+sum: 541131
+SchematicNumber { value: 135, row: 137, col: 34 }
+sum: 541266
+SchematicNumber { value: 594, row: 137, col: 47 }
+sum: 541860
+SchematicNumber { value: 470, row: 137, col: 59 }
+sum: 542330
+SchematicNumber { value: 540, row: 137, col: 79 }
+sum: 542102
+SchematicNumber { value: 42, row: 137, col: 90 }
+sum: 542912
+SchematicNumber { value: 775, row: 137, col: 122 }
+sum: 543687
+SchematicNumber { value: 790, row: 137, col: 131 }
+sum: 544477
+SchematicNumber { value: 990, row: 138, col: 5 }
+sum: 545467
+SchematicNumber { value: 742, row: 138, col: 19 }
+sum: 546209
+SchematicNumber { value: 181, row: 138, col: 28 }
+sum: 546390
+SchematicNumber { value: 521, row: 138, col: 54 }
+sum: 546911
+SchematicNumber { value: 743, row: 138, col: 73 }
+sum: 547654
+SchematicNumber { value: 552, row: 138, col: 83 }
+sum: 548206
+SchematicNumber { value: 738, row: 138, col: 110 }
+sum: 548944
+SchematicNumber { value: 311, row: 139, col: 33 }
+sum: 549255
+SchematicNumber { value: 715, row: 139, col: 48 }
+sum: 549970
+SchematicNumber { value: 173, row: 139, col: 105 }
+sum: 550143
+SchematicNumber { value: 291, row: 139, col: 134 }
+sum: 550434
+sum part nums: 550434
